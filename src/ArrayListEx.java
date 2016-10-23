@@ -20,7 +20,5 @@ public class ArrayListEx {
 		}
 		System.out.println("Existing");
 		System.out.println("Existing 12");
-		System.out.println("sachin");
-		
 	}
 }
